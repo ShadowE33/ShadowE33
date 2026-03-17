@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1&color=F7DE8A&vCenter=true&multiline=true&width=435&lines=Greetings!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1&color=F7DE8A&vCenter=true&multiline=true&width=435&lines=Greetings!)](https://git.io/typing-svg)
 
 <!--
 **ShadowE33/ShadowE33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
